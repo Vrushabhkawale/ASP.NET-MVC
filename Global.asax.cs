@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace MVCCrudUsingFK_7
+namespace MVCCrudDBFirst
 {
     public class MvcApplication : System.Web.HttpApplication
     {
